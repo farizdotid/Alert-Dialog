@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert App</string>
+    <string name="simple_alert_dialog">Simple Alert Dialog</string>
+    <string name="custom_alert_dialog">Custom Alert Dialog</string>
+    <string name="pesanan_kamu_berhasil_di_proses">Pesanan kamu berhasil di proses</string>
+    <string name="lihat_transaksi">Lihat Transaksi</string>
+</resources>
